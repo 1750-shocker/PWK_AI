@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PWK_AI</string>
+    <string name="password_manager">密码本</string>
+    <string name="export_to_download">导出到 Download</string>
+    <string name="import_from_download">从 Download 导入</string>
+    <string name="add_password">添加密码</string>
+    <string name="search_hint">搜索标题或账号...</string>
+    <string name="copy_password">复制密码</string>
+    <string name="copy_account">复制账号</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="close">关闭</string>
+    <string name="delete_password_title">删除密码</string>
+    <string name="delete_password_confirm">您确定要删除这个密码吗？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="edit_password">编辑密码</string>
+    <string name="title">标题</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="note_optional">备注 (可选)</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="required_fields_error">标题、账号和密码为必填项</string>
+    <string name="copied_to_clipboard">%s 已复制到剪贴板</string>
+    <string name="no_data_to_export">没有可导出的数据</string>
+    <string name="exported_success">已导出至 Downloads/passwords_backup.json</string>
+    <string name="export_failed">导出失败: %s</string>
+    <string name="backup_not_found">在 Downloads 文件夹中未找到备份文件</string>
+    <string name="imported_success">成功导入 %d 条密码</string>
+    <string name="import_failed">导入失败: %s</string>
+</resources>
